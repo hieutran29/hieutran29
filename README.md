@@ -15,8 +15,8 @@
 
 ### Programming languages:
 
-<img align="left" alt="C++" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg" />
-<img align="left" alt="C" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" />
+<img align="left" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg" />
+<img align="left" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" />
 
 
 <br />

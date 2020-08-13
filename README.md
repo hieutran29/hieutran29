@@ -24,7 +24,7 @@
 
 ---
 
-[![HieuTran's github stats](https://github-readme-stats.vercel.app/api?username=hieutran29&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[HieuTran's github stats](https://github-readme-stats.vercel.app/api?username=hieutran29&show_icons=true)
 
 
 [instagram]: https://www.instagram.com/hieutran2908

@@ -15,15 +15,15 @@
 
 ### Programming languages:
 
-<img align="left" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg" />
-<img align="left" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" />
+<img align="left" alt="Cplusplus" width="26px" src="c-plusplus.svg" />
+<img align="left" alt="C" width="26px" src="c.svg" />
 
 
 <br />
 <br />
 
 
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/hieutran2908
 [facebook]: https://www.facebook.com/hieutran2908
 [github]: https://github.com/hieutran29
 

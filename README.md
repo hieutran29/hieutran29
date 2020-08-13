@@ -15,8 +15,8 @@
 
 ### Programming languages:
 
-<img align="left" alt="Cplusplus" width="26px" src="E:\Bi\GitHub Profile\c-plusplus.svg" />
-<img align="left" alt="C" width="26px" src="E:\Bi\GitHub Profile\c.svg" />
+<img align="left" alt="Cplusplus" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg" />
+<img align="left" alt="C" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" />
 
 
 <br />

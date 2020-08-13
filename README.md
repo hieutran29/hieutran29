@@ -22,6 +22,10 @@
 <br />
 <br />
 
+---
+
+[![HieuTran's github stats](https://github-readme-stats.vercel.app/api?username=hieutran29&show_icons=true)]
+
 
 [instagram]: https://www.instagram.com/hieutran2908
 [facebook]: https://www.facebook.com/hieutran2908

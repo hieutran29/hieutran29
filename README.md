@@ -1,6 +1,6 @@
 ### Hi there, I'm Hieu 👋
 
-## I'm a Student, Future Developer!
+## I'm a Student!
 - 🔭 I’m currently studying at Hanoi University of Science and Technology (HUST)!
 - 🌱 I’m currently learning coding in C and C++ 
 - ⚡ Hobbies: I love reading books/ coding/ exploring new knowledge
